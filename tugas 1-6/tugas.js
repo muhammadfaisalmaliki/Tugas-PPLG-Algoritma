@@ -75,3 +75,14 @@ if(kerja == 6){
 console.log(`jika lembur selama ${kerja} jam maka ${total2}`)
 
 // no6
+let air = 2000;
+    if (air < 500) {
+        jadi = "AMAN";
+    } else if (air < 600) {
+        jadi = "WASPASA";
+    } else if (air < 650) {
+        jadi = "SIAGA2";
+    }else {
+        jadi = "SIAGA1";
+    }
+    console.log(jadi)
