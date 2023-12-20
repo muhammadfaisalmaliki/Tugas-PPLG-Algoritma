@@ -1,4 +1,4 @@
-
+// tugas 1-5
 // no1
 let angka1 = 2;
 let angka2 = 3;
@@ -28,4 +28,4 @@ console.log(`jawabannya adalah ${gram} gram`)
 let kilometer = 6;
 let meter = kilometer * 1000;
 
-console.log(`jawabannya adalah ${meter} meter`)
+console.log(`jawabannya adalah ${meter} meter`)
